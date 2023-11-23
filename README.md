@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @MoeAmoura
-- 👀 I’m interested in Security,Networking and Coding
-- 🌱 I’m currently learning CCNA,OSCP and TCM Practical Ethical Hacking
+# @MoeAmoura
 
-<!---
-MoeAmoura/MoeAmoura is a repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I am geek about Security, Networking, and Coding. Currently on a learning journey with a focus on:
+- CCNA (Cisco Certified Network Associate)
+- OSCP (Offensive Security Certified Professional)
+- TCM Practical Ethical Hacking
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
+
+### Networking Projects
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/)
